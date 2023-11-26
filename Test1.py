@@ -1,1 +1,1 @@
-Test_editare
+print('Test_editare_editare2')
